@@ -1,5 +1,5 @@
 
-<h1 align= "center"><b>Hey there👋, I am Sal and i love building stuff</b></h1>
+<h1 align= "center"><b>Hey there👋, My name is Sal and i love building stuff</b></h1>
 <p align="center"><img width=50% src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif"></p>
 <h3 align= "center"><b>Multi-disciplinary iOS Developer / IOT & AR Fanatic / Lifelong Learner / 3D Printing / Traveling</b></h3>
 
