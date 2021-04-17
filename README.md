@@ -3,7 +3,8 @@
 <p align="center"><img width=50% src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif"></p>
 <h3 align= "center"><b>Multi-disciplinary iOS Developer / IOT & AR Fanatic / Lifelong Learner / 3D Printing / Traveling</b></h3>
 
-![Sals's GitHub stats](https://github-readme-stats.vercel.app/api?username=sal562&count_private=true&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sal562&layout=compact)](https://github.com/sal562)
+
 
 
 ⭐️ From [Sal B Amer](https://github.com/sal562)
