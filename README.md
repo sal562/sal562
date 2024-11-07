@@ -3,7 +3,7 @@
 <p align="center"><img width=50% src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif"></p>
 <h3 align= "center"><b>Multi-disciplinary iOS Developer / IOT & AR Fanatic / Machine Learning (ML) / 3D Printing / Traveling</b></h3>
 
-⭐️ From [Sal B Amer](https://github.com/sal562)
+⭐️ From [Sal](https://github.com/sal562)
 
 
 <!--
