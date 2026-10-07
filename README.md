@@ -1,7 +1,6 @@
 
 <h1 align= "center"><b>Hey there👋, My name is Sal and i like building stuff</b></h1>
 <p align="center"><img width=50% src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif"></p>
-<h3 align= "center"><b>I am that</b></h3>
 
 ⭐️ From [Sal](https://github.com/sal562)
 
